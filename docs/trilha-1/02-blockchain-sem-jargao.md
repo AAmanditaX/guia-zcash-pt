@@ -1,7 +1,7 @@
 # 2. Blockchain sem jargão
 
 !!! question "A pergunta desta página"
-    O que é um blockchain, e por que ele costuma ser público?
+    O que é uma blockchain, e por que ela costuma ser pública?
 
 !!! warning "Rascunho em construção"
     Esta página ainda será escrita. Abaixo, o plano.
@@ -10,7 +10,7 @@
 
 **Pontos a cobrir**
 
-- O problema que o blockchain resolve: registrar quem tem o quê sem depender de um banco
+- O problema que a blockchain resolve: registrar quem tem o quê sem depender de um banco
 - Por que cada transação fica registrada e visível
 - O que é "transparência" e o que isso significa para a privacidade
 - Carteiras e chaves: como o dinheiro é controlado

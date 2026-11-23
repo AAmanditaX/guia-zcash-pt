@@ -8,7 +8,7 @@ Termos explicados em linguagem simples. A lista cresce junto com o guia.
 :   Um livro de registros compartilhado, mantido por muitos computadores ao mesmo tempo, em que as transações ficam gravadas em sequência e é muito difícil alterar o que já foi escrito.
 
 **Criptomoeda**
-:   Dinheiro digital que funciona sobre um blockchain, sem depender de um banco para registrar quem tem o quê.
+:   Dinheiro digital que funciona sobre uma blockchain, sem depender de um banco para registrar quem tem o quê.
 
 **Zcash (ZEC)**
 :   Criptomoeda lançada em 2016 que permite fazer transações com privacidade. ZEC é o símbolo da moeda.

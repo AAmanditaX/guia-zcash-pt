@@ -1,6 +1,6 @@
 # Guia Zcash PT
 
-Um guia em português do Brasil para quem quer entender **privacidade financeira** e **Zcash** sem precisar saber nada de criptomoedas antes.
+Um guia em português para quem quer entender **privacidade financeira** e **Zcash** sem precisar saber nada de criptomoedas antes.
 
 Aqui você não vai encontrar jargão solto. Cada conceito começa com uma imagem do dia a dia e só depois ganha o nome técnico.
 

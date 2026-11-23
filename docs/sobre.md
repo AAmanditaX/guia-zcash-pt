@@ -1,6 +1,6 @@
 # Sobre este guia
 
-O Guia Zcash PT nasceu de uma lacuna: existe muito pouco conteúdo sobre Zcash em português do Brasil. A proposta é explicar o assunto com clareza para quem está começando.
+O Guia Zcash PT nasceu de uma lacuna: existe muito pouco conteúdo sobre Zcash em língua portuguesa. A proposta é explicar o assunto com clareza para quem está começando.
 
 ## Aviso importante
 
