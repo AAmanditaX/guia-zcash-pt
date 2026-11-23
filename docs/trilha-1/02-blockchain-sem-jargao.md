@@ -1,20 +1,82 @@
-# 2. Blockchain sem jargão
 
-!!! question "A pergunta desta página"
-    O que é uma blockchain, e por que ela costuma ser pública?
+site_name: Guia Zcash PT
+site_description: Um guia em português para entender Zcash e privacidade financeira, sem jargão.
+# Depois de publicar, troque pelos seus dados reais:
+# site_url: https://SEU-USUARIO.github.io/guia-zcash-pt/
+# repo_url: https://github.com/SEU-USUARIO/guia-zcash-pt
 
-!!! warning "Rascunho em construção"
-    Esta página ainda será escrita. Abaixo, o plano.
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.tooltips
 
-**Analogia sugerida:** um caderno de registros que fica na praça da cidade, copiado por muita gente, onde ninguém consegue apagar ou rasurar o que já foi escrito.
+plugins:
+  - search:
+      lang: pt
 
-**Pontos a cobrir**
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - abbr
+  - attr_list
+  - toc:
+      permalink: true
 
-- O problema que a blockchain resolve: registrar quem tem o quê sem depender de um banco
-- Por que cada transação fica registrada e visível
-- O que é "transparência" e o que isso significa para a privacidade
-- Carteiras e chaves: como o dinheiro é controlado
+nav:
+  - Início: index.md
+  - "Trilha 1 · Por que privacidade":
+      - "1. Por que a privacidade financeira importa": trilha-1/01-por-que-privacidade.md
+      - "2. Blockchain sem jargão": trilha-1/02-blockchain-sem-jargao.md
+      - "3. Bitcoin é privado?": trilha-1/03-bitcoin-e-privado.md
+  - "Trilha 2 · Conhecendo o Zcash":
+      - "4. O que é Zcash e de onde veio": trilha-2/04-o-que-e-zcash.md
+      - "5. Endereços transparentes e blindados": trilha-2/05-enderecos.md
+      - "6. Como a privacidade funciona": trilha-2/06-como-funciona.md
+  - "Trilha 3 · Na prática":
+      - "7. Carteira, passo a passo": trilha-3/07-carteira.md
+      - "8. Mitos e perguntas frequentes": trilha-3/08-mitos-e-faq.md
+      - "9. Segurança e golpes": trilha-3/09-seguranca.md
+  - Glossário: glossario.md
+  - Sobre este guia: sobre.md
 
----
+# Guia Zcash PT
 
-**Anterior:** [1. Por que a privacidade financeira importa](01-por-que-privacidade.md) · **Próxima:** [3. Bitcoin é privado?](03-bitcoin-e-privado.md)
+Guia em português para entender Zcash e privacidade financeira, voltado a leigos.
+
+O site é gerado com [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) e publicado automaticamente pelo GitHub Pages.
+
+## Estrutura
+
+- `mkdocs.yml`: configuração do site e do menu
+- `docs/`: os textos, em Markdown
+- `.github/workflows/publicar.yml`: publica o site a cada alteração na branch `main`
+
+## Ver o site no seu computador (opcional)
+
+```
+pip install -r requirements.txt
+mkdocs serve
+```
+
+Depois abra `http://127.0.0.1:8000` no navegador.
+
+mkdocs-material
+mkdocs<2
