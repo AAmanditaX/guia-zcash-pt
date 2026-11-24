@@ -35,7 +35,7 @@ No Brasil, a Lei Geral de Proteção de Dados (LGPD) existe justamente porque re
 
 Boa parte do nosso dinheiro hoje é digital, e cada movimentação deixa um rastro. Isso traz uma pergunta importante: será possível ter dinheiro digital **e** manter a privacidade que sempre tivemos com o dinheiro em espécie?
 
-Foi dessa pergunta que nasceu o Zcash. Mas, antes de chegar nele, vamos entender melhor como funciona o terreno em que ele nasceu: a blockchain.
+Foi dessa pergunta que nasceu a Zcash. Mas, antes de chegar nele, vamos entender melhor como funciona o terreno em que ele nasceu: a blockchain.
 
 !!! note "Para refletir"
     Se alguém pudesse abrir o seu extrato dos últimos cinco anos, o que essa pessoa conseguiria descobrir sobre você?
