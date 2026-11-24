@@ -9,7 +9,7 @@ Aqui você não vai encontrar jargão solto. Cada conceito começa com uma image
 O guia tem três trilhas, pensadas para serem lidas em ordem:
 
 1. **Por que privacidade.** Antes de falar de Zcash, falamos do problema: o que significa ter (ou não ter) privacidade no dinheiro.
-2. **Conhecendo o Zcash.** O que é, de onde veio e como a privacidade funciona, em linguagem simples.
+2. **Conhecendo a Zcash.** O que é, de onde veio e como a privacidade funciona, em linguagem simples.
 3. **Na prática.** Carteiras, mitos, perguntas frequentes e segurança.
 
 Cada página leva poucos minutos para ser lida e responde a uma pergunta só.
